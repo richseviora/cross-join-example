@@ -1,0 +1,2 @@
+class BookAssociation < ApplicationRecord
+end
